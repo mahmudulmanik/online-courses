@@ -1,0 +1,16 @@
+
+
+.topic{
+    /* border: 1px solid darkblue; */
+    margin-top: 15px;
+    margin-right: 24px;
+    padding: 12px;
+}
+
+.topic img{
+    height: 250px;
+}
+
+.imageStyle img{
+    border: 3px solid #094c59;
+}
